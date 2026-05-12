@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SkillSync AI — Intelligent Resume Screening Platform
 
 ## Overview
@@ -194,3 +195,6 @@ B.Tech CSE (AI)
 # License
 
 This project is developed for educational and learning purposes.
+=======
+# skillsync-ai-resume-screening
+>>>>>>> 0d5fbaad478db6be0fcae6ded4f035f16f5ed91e
