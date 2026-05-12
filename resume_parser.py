@@ -2,6 +2,9 @@ import re
 import PyPDF2
 from docx import Document
 from nltk.corpus import stopwords
+import nltk
+
+nltk.download('stopwords')
 
 # ===================================
 # STOPWORDS
