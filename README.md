@@ -47,7 +47,7 @@ The platform helps recruiters quickly identify the most relevant candidates by a
 
 ## Database
 
-* PostgreSQL / SQLite
+* PostgreSQL 
 
 ---
 
